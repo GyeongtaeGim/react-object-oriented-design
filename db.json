@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "typicode"
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "some comment"
+    }
+  ]
+}
